@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contafacil/static/css/main.e6c13ad2.css",
+    "main.js": "/contafacil/static/js/main.084f75dd.js",
+    "static/js/453.08bfc9c2.chunk.js": "/contafacil/static/js/453.08bfc9c2.chunk.js",
+    "index.html": "/contafacil/index.html",
+    "main.e6c13ad2.css.map": "/contafacil/static/css/main.e6c13ad2.css.map",
+    "main.084f75dd.js.map": "/contafacil/static/js/main.084f75dd.js.map",
+    "453.08bfc9c2.chunk.js.map": "/contafacil/static/js/453.08bfc9c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.084f75dd.js"
+  ]
+}
