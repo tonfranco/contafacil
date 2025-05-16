@@ -26,7 +26,7 @@ function App() {
       <ThemeProvider>
         <LocalizationProvider dateAdapter={AdapterDateFns}>
           <CssBaseline />
-          <Router>
+          <Router basename={process.env.NODE_ENV === 'production' ? '/cf' : '/'}>
             <MainLayout>
               <Routes>
                 <Route path="/" element={<Dashboard />} />
